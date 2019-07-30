@@ -18,6 +18,10 @@ Download the lightning-dev mailing list with:
 $ make lightning
 ```
 
+The unzipped files can be found in the `raw` directory
+and the zipped files can be found in the `archives`
+directory.
+
 ### Further Instructions
 
 Download all files at Gzip'd hyperlinks using `fetch.sh`.
